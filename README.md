@@ -1,22 +1,25 @@
-# Interactive Quiz Application
+Interactive Quiz Application
 
 A multiple-choice quiz on Python, statistics and SQL, built with HTML, CSS and JavaScript.
 
-## Features
-- 6 questions, one at a time
-- Instant feedback (correct answer turns green, wrong choice turns red)
-- Score and message at the end
-- Play again button
-- Works on desktop and mobile
+Features
+6 questions, one at a time
+Instant feedback (correct answer turns green, wrong choice turns red)
+Score and message at the end
+Play again button
+Works on desktop and mobile
+Technologies
 
-## Technologies
 HTML, CSS, JavaScript
 
-## How to run
-Download the files and open `index.html` in a browser.
+How to run
 
-## Live link
-Add your Vercel link here after deploying.
+Download the files and open index.html in a browser.
 
-## Author
-Aditya Bansal - [GitHub](https://github.com/aditya3-1-0-8)
+Live link
+
+https://interactive-quiz-app-tau.vercel.app
+
+Author
+
+Aditya Bansal - GitHub
